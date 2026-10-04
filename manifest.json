@@ -1,0 +1,9 @@
+{
+  "name": "Grammaire progressive du français — Avancé",
+  "short_name": "GP Avancé",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#8f86a8",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
